@@ -1,0 +1,12 @@
+
+
+### Retrieve account consent
+GET http://localhost:3000/api/account-consents
+
+
+### Get account consent info
+GET http://localhost:3000/api/account-consents/a333e0c126964136813d85ac94194e86
+
+
+### Get Auth Link
+GET http://localhost:3000/api/auth-link
